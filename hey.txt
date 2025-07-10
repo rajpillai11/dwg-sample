@@ -2,3 +2,5 @@ First line
 change made from feature branch
 
 Changes for remote repo
+
+Second change for remote repo
